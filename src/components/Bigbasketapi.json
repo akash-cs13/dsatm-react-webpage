@@ -1,0 +1,612 @@
+{ 
+    "Apple": [
+      {
+        "item": "Apple - Red Delicious / Washington, Regular", 
+        "packet_description": "2x4 pcs", 
+        "price": "278.21", 
+        "url": "https://www.bigbasket.com/pd/1203781/fresho-apple-red-delicious-washington-regular-2x4-pcs/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Apple - Royal Gala Economy", 
+        "packet_description": "(Approx.450 g-500 g)4 pcs", 
+        "price": "142", 
+        "url": "https://www.bigbasket.com/pd/10000005/fresho-apple-royal-gala-economy-4-pcs/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Baby Apple Shimla", 
+        "packet_description": "(Approx. 11-12 pcs)1 kg", 
+        "price": "204.37", 
+        "url": "https://www.bigbasket.com/pd/40134281/fresho-baby-apple-shimla-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Apple - Shimla", 
+        "packet_description": "(Approx. 500g- 650g)4 pcs", 
+        "price": "175.48", 
+        "url": "https://www.bigbasket.com/pd/40033819/fresho-apple-shimla-4-pcs/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Apple - Royal Gala, Regular", 
+        "packet_description": "(Approx.520 g-600 g)4 pcs", 
+        "price": "179.76", 
+        "url": "https://www.bigbasket.com/pd/40033823/fresho-apple-royal-gala-regular-4-pcs/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Apple - Royal Gala, Premium", 
+        "packet_description": "(Multipack)2x4 pcs", 
+        "price": "413.02", 
+        "url": "https://www.bigbasket.com/pd/1203782/fresho-apple-royal-gala-premium-2x4-pcs/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Apple - Red Delicious, Economy", 
+        "packet_description": "(Approx. 450g - 500g)4 pcs", 
+        "price": "150.87", 
+        "url": "https://www.bigbasket.com/pd/40075384/fresho-apple-red-delicious-economy-4-pcs/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Apple - Red Delicious, Premium", 
+        "packet_description": "(Approx. 600g -700g)4 pcs", 
+        "price": "170.13", 
+        "url": "https://www.bigbasket.com/pd/40104709/fresho-apple-red-delicious-premium-4-pcs/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Apple - Shimla, Premium", 
+        "packet_description": "(Approx. 700 g - 900 g)4 pcs", 
+        "price": "218.28", 
+        "url": "https://www.bigbasket.com/pd/40113206/fresho-apple-shimla-premium-4-pcs/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Sapota", 
+        "packet_description": "500 g", 
+        "price": "38.52", 
+        "url": "https://www.bigbasket.com/pd/10000181/fresho-sapota-500-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Wood Apple - Kothbel", 
+        "packet_description": "1 pc", 
+        "price": "10.70", 
+        "url": "https://www.bigbasket.com/pd/10000583/fresho-wood-apple-kothbel-1-pc/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Pineapple", 
+        "packet_description": "800 g -1000 g1 pc", 
+        "price": "56.56", 
+        "url": "https://www.bigbasket.com/pd/10000156/fresho-pineapple-1-pc/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "100 % Apple Juice", 
+        "packet_description": "1 L", 
+        "price": "110", 
+        "url": "https://www.bigbasket.com/pd/229945/real-activ-100-apple-juice-1-l/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Delight Fruit Juice - Apple", 
+        "packet_description": "1 L", 
+        "price": "89.25", 
+        "url": "https://www.bigbasket.com/pd/229791/tropicana-delight-fruit-juice-apple-1-l/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Pineapple - Chunks, Single Serve", 
+        "packet_description": "80 g", 
+        "price": "33", 
+        "url": "https://www.bigbasket.com/pd/40119402/fresho-pineapple-chunks-single-serve-80-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Pineapple - Slices", 
+        "packet_description": "200 g", 
+        "price": "72", 
+        "url": "https://www.bigbasket.com/pd/40090775/fresho-pineapple-slices-200-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Apple Juice Based Drink", 
+        "packet_description": "Bottle250 ml", 
+        "price": "18", 
+        "url": "https://www.bigbasket.com/pd/271119/appy-fizz-apple-juice-based-drink-250-ml-bottle/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Juice - Classic Apple", 
+        "packet_description": "Carton150 ml", 
+        "price": "10", 
+        "url": "https://www.bigbasket.com/pd/274037/appy-juice-classic-apple-150-ml-carton/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Waffy Wafers - Pineapple Flavoured, Creamy & Crunchy", 
+        "packet_description": "60 g", 
+        "price": "25", 
+        "url": "https://www.bigbasket.com/pd/40111947/dukes-waffy-wafers-pineapple-flavour-75-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }, 
+      {
+        "item": "Pineapple - Slices", 
+        "packet_description": "350 g", 
+        "price": "104", 
+        "url": "https://www.bigbasket.com/pd/30005195/fresho-pineapple-slices-350-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+      }
+    ],
+    "Banana": [
+        {
+          "item": "Banana - Yelakki", 
+          "packet_description": "500 g", 
+          "price": "48.18", 
+          "url": "https://www.bigbasket.com/pd/10000033/fresho-banana-yelakki-500-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana - Robusta", 
+          "packet_description": "1 kg", 
+          "price": "63.13", 
+          "url": "https://www.bigbasket.com/pd/10000025/fresho-banana-robusta-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana - Yelakki, Organically Grown", 
+          "packet_description": "1 kg", 
+          "price": "108.82", 
+          "url": "https://www.bigbasket.com/pd/50000457/fresho-banana-yelakki-organically-grown-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana - Karpooravalli", 
+          "packet_description": "500 g", 
+          "price": "20.86", 
+          "url": "https://www.bigbasket.com/pd/60000055/fresho-banana-karpooravalli-500-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Baby Banana - Robusta", 
+          "packet_description": "1 kg", 
+          "price": "44.94", 
+          "url": "https://www.bigbasket.com/pd/40179390/fresho-baby-banana-robusta-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana - Poovan", 
+          "packet_description": "500 g", 
+          "price": "24.07", 
+          "url": "https://www.bigbasket.com/pd/60000054/fresho-banana-poovan-500-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana - Red", 
+          "packet_description": "500 g", 
+          "price": "37.37", 
+          "url": "https://www.bigbasket.com/pd/10000581/fresho-banana-red-500-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana - Nendran", 
+          "packet_description": "1 kg", 
+          "price": "85.60", 
+          "url": "https://www.bigbasket.com/pd/10000346/fresho-banana-nendran-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana - Raw Green", 
+          "packet_description": "1 kg", 
+          "price": "69.55", 
+          "url": "https://www.bigbasket.com/pd/10000167/fresho-banana-raw-green-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana - Nendran, Organically Grown", 
+          "packet_description": "1 Kg", 
+          "price": "110.10", 
+          "url": "https://www.bigbasket.com/pd/40229396/fresho-banana-nendran-organically-grown-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana Leaf", 
+          "packet_description": "5 pcs", 
+          "price": "56.71", 
+          "url": "https://www.bigbasket.com/pd/20003403/fresho-banana-leaf-5-pcs/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana Stem - Organically Grown", 
+          "packet_description": "1 pc", 
+          "price": "23.54", 
+          "url": "https://www.bigbasket.com/pd/40036724/fresho-banana-stem-organically-grown-1-pc/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana Flower - Organically Grown", 
+          "packet_description": "1 pc", 
+          "price": "23.92", 
+          "url": "https://www.bigbasket.com/pd/40036723/fresho-banana-flower-organically-grown-1-pc/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Naphthalene Balls", 
+          "packet_description": "Pouch100 g", 
+          "price": "36", 
+          "url": "https://www.bigbasket.com/pd/40173106/bb-home-naphthalene-balls-100-g-pouch/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Chips - Banana Salted", 
+          "packet_description": "200 g", 
+          "price": "90", 
+          "url": "https://www.bigbasket.com/pd/40031024/balaji-foods-chips-banana-salted-200-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Namkeen - Salted Banana Chips", 
+          "packet_description": "(Multipack)6x150 g", 
+          "price": "456", 
+          "url": "https://www.bigbasket.com/pd/1216235/tasties-namkeen-salted-banana-chips-6x150-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Peanut Chikki Ball - Made With jaggery, Healthy Snack, Protein Rich", 
+          "packet_description": "POUCH100 g", 
+          "price": "42", 
+          "url": "https://www.bigbasket.com/pd/40236887/sda-peanut-chikki-ball-made-with-jaggery-healthy-snack-protein-rich-100-g-pouch/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Ultra Thin Banana Wafers - Classic Salt", 
+          "packet_description": "180 g", 
+          "price": "110", 
+          "url": "https://www.bigbasket.com/pd/40076851/a-1-chips-banana-wafers-ultra-thin-classic-salt-180-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana Chips - Salt", 
+          "packet_description": "170 g", 
+          "price": "95", 
+          "url": "https://www.bigbasket.com/pd/40086167/sanjay-chips-banana-170-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Banana Chips", 
+          "packet_description": "250 g", 
+          "price": "140", 
+          "url": "https://www.bigbasket.com/pd/40113517/a-1-chips-banana-chips-250-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }
+      ],
+      "Carrot": [
+        {
+          "item": "Carrot - Orange", 
+          "packet_description": "1 kg", 
+          "price": "53.50", 
+          "url": "https://www.bigbasket.com/pd/10000070/fresho-carrot-orange-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Carrot - Ooty", 
+          "packet_description": "500 g", 
+          "price": "36.36", 
+          "url": "https://www.bigbasket.com/pd/10000271/fresho-carrot-ooty-500-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Carrots - Grated", 
+          "packet_description": "200 g", 
+          "price": "28", 
+          "url": "https://www.bigbasket.com/pd/40005786/fresho-carrots-grated-200-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Carrots - Julienne", 
+          "packet_description": "200 g", 
+          "price": "28", 
+          "url": "https://www.bigbasket.com/pd/40005788/fresho-carrots-julienne-200-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Carrots - Diced", 
+          "packet_description": "200 g", 
+          "price": "28", 
+          "url": "https://www.bigbasket.com/pd/40005784/fresho-carrots-diced-200-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Carrot Strips and Beans Strip", 
+          "packet_description": "200 g", 
+          "price": "40", 
+          "url": "https://www.bigbasket.com/pd/40010013/fresho-carrot-strips-and-beans-strip-200-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Carrots and Peas", 
+          "packet_description": "200 g", 
+          "price": "56", 
+          "url": "https://www.bigbasket.com/pd/40010009/fresho-carrots-and-peas-200-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Carrot - Sliced", 
+          "packet_description": "200 g", 
+          "price": "28", 
+          "url": "https://www.bigbasket.com/pd/40005782/fresho-carrot-sliced-200-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Veggie Fingers - Veggie Delight With Corn, Carrot & Peas", 
+          "packet_description": "400 g", 
+          "price": "140", 
+          "url": "https://www.bigbasket.com/pd/40016992/mccain-veggie-fingers-veggie-delight-with-corn-carrot-peas-400-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Cucumber, Carrot & Beetroot 500g Each Salad", 
+          "packet_description": "3 ItemsCombo", 
+          "price": "85.50", 
+          "url": "https://www.bigbasket.com/pd/1202153/fresho-cucumber-carrot-beetroot-500g-each-salad-combo/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Carrots Sliced, Broccoli Florets and Cauliflower Florets", 
+          "packet_description": "220 g", 
+          "price": "47", 
+          "url": "https://www.bigbasket.com/pd/40010011/fresho-carrots-sliced-broccoli-florets-and-cauliflower-florets-220-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Ladies Finger + Beans French Ring + Carrot Local + Capsicum Green (500 g each)", 
+          "packet_description": "4 ItemsCombo", 
+          "price": "152.16", 
+          "url": "https://www.bigbasket.com/pd/1209663/fresho-ladies-finger-beans-french-ring-carrot-local-capsicum-green-500-g-each-combo/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Real Activ Fruit + Veggie Orange & Carrot Beverage, With No Added Sugars/Preservative -1L", 
+          "packet_description": "Multipack2x1 L", 
+          "price": "224", 
+          "url": "https://www.bigbasket.com/pd/1209535/real-activ-real-activ-fruit-veggie-orange-carrot-beverage-with-no-added-sugarspreservative-1l-2x1-l/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Glimmersticks For Lips", 
+          "packet_description": "Carrot Red L481.8 g", 
+          "price": "65", 
+          "url": "https://www.bigbasket.com/pd/40149301/miss-claire-glimmersticks-for-lips-18-g-carrot-red-l48/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Sunscreen Lotion - Carrot, SPF 15, Normal to Dry Skin, All Natural, Mineral Line", 
+          "packet_description": "100 ml", 
+          "price": "131.25", 
+          "url": "https://www.bigbasket.com/pd/40035323/aroma-magic-sunscreen-lotion-carrot-100-ml/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Snacks - Sticks, Carrot & Cumin, 2+ Years, 100% Natural & Healthy", 
+          "packet_description": "Multipack10x30 g", 
+          "price": "150", 
+          "url": "https://www.bigbasket.com/pd/1205708/timios-snacks-sticks-carrot-cumin-2-years-100-natural-healthy-10x30-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Beetroot & Carrot Gut Health \u2013 No Added Sugars & Preservative", 
+          "packet_description": "1 L", 
+          "price": "103.60", 
+          "url": "https://www.bigbasket.com/pd/265908/real-activ-beetroot-carrot-gut-health-no-added-sugars-preservative-1-l/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Tasty Wet Cat Food - Tuna Fish & Kanikama With Carrots In Gravy, 1+ Year", 
+          "packet_description": "70 g", 
+          "price": "35", 
+          "url": "https://www.bigbasket.com/pd/40214916/whiskas-tasty-wet-cat-food-tuna-fish-kanikama-with-carrots-in-gravy-1-year-70-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Carrot Walnut Cake - 100% Wholewheat", 
+          "packet_description": "300 g", 
+          "price": "295", 
+          "url": "https://www.bigbasket.com/pd/40169943/the-bakers-dozen-carrot-walnut-cake-100-wholewheat-300-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "FunFoods Cucumber & Carrot Sandwich Spread", 
+          "packet_description": "Jar250 g", 
+          "price": "89", 
+          "url": "https://www.bigbasket.com/pd/100004230/dr-oetker-funfoods-cucumber-carrot-sandwich-spread-250-g-jar/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }
+    ],
+    "Mango": [
+        {
+          "item": "Banganapalli Mango", 
+          "packet_description": "1 kg", 
+          "price": "75.97", 
+          "url": "https://www.bigbasket.com/pd/10000298/fresho-banganapalli-mango-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Alphonso Mango - Badami", 
+          "packet_description": "1 kg", 
+          "price": "100.58", 
+          "url": "https://www.bigbasket.com/pd/10000302/fresho-alphonso-mango-badami-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Lalbagh Mango - Sindhura", 
+          "packet_description": "1 kg", 
+          "price": "79.18", 
+          "url": "https://www.bigbasket.com/pd/10000306/fresho-lalbagh-mango-sindhura-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Raw Mango - Rich in Vitamin C", 
+          "packet_description": "500 g", 
+          "price": "20.20", 
+          "url": "https://www.bigbasket.com/pd/10000587/fresho-raw-mango-500-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Totapuri Mango", 
+          "packet_description": "1 kg", 
+          "price": "25.68", 
+          "url": "https://www.bigbasket.com/pd/10000590/fresho-totapuri-mango-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Mango - Alphonso, Ratnagiri", 
+          "packet_description": "2 pcs", 
+          "price": "139.10", 
+          "url": "https://www.bigbasket.com/pd/40128394/fresho-mango-alphonso-ratnagiri-2-pcs/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Mallika Mango", 
+          "packet_description": "1 kg", 
+          "price": "66.34", 
+          "url": "https://www.bigbasket.com/pd/10000304/fresho-mallika-mango-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Raspuri/Gola Mango", 
+          "packet_description": "1 kg", 
+          "price": "101.65", 
+          "url": "https://www.bigbasket.com/pd/10000300/fresho-raspurigola-mango-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Drink - Fresh 'N' Juicy Mango", 
+          "packet_description": "200 ml", 
+          "price": "15", 
+          "url": "https://www.bigbasket.com/pd/265783/frooti-drink-fresh-n-juicy-mango-200-ml/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Fruit Juice - Mango", 
+          "packet_description": "Multipack2x1.5 L", 
+          "price": "146", 
+          "url": "https://www.bigbasket.com/pd/1203605/maaza-fruit-juice-mango-2x15-l/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Juice - Mango Refresh", 
+          "packet_description": "Carton150 ml", 
+          "price": "10", 
+          "url": "https://www.bigbasket.com/pd/265725/maaza-juice-mango-refresh-150-ml-carton/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Mango Juice", 
+          "packet_description": "Multipack2x1.75 L", 
+          "price": "152", 
+          "url": "https://www.bigbasket.com/pd/1208986/tropicana-slice-mango-juice-2x175-l/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Kesar Mango", 
+          "packet_description": "1 kg", 
+          "price": "194.74", 
+          "url": "https://www.bigbasket.com/pd/30000974/fresho-kesar-mango-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Delight Fruit Juice - Mango", 
+          "packet_description": "Carton200 ml", 
+          "price": "20", 
+          "url": "https://www.bigbasket.com/pd/265710/tropicana-delight-fruit-juice-mango-200-ml-carton/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Powder - Dry Mango", 
+          "packet_description": "Carton100 g", 
+          "price": "80", 
+          "url": "https://www.bigbasket.com/pd/282210/everest-powder-dry-mango-100-g-carton/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Kalaphad Mango", 
+          "packet_description": "1 kg", 
+          "price": "209.72", 
+          "url": "https://www.bigbasket.com/pd/40012511/fresho-kalaphad-mango-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Fruit Yoghurt - Mango", 
+          "packet_description": "100 ml", 
+          "price": "55", 
+          "url": "https://www.bigbasket.com/pd/40124116/milky-mist-fruit-yoghurt-mango-100-ml/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Greek Yogurt - Alphonso Mango", 
+          "packet_description": "Multipack4x90 g", 
+          "price": "169.68", 
+          "url": "https://www.bigbasket.com/pd/1200550/epigamia-greek-yogurt-alphonso-mango-4x90-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Paper Boat Aamras Mango Fruit Juice (Pack of 4)", 
+          "packet_description": "Multipack180 ml", 
+          "price": "73.60", 
+          "url": "https://www.bigbasket.com/pd/1209452/paper-boat-aamras-mango-fruit-juice-4x150-ml/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Chocolate Brownie Ice Cream", 
+          "packet_description": "Plastic IML Cup125 ml", 
+          "price": "35", 
+          "url": "https://www.bigbasket.com/pd/40190795/amul-chocolate-brownie-ice-cream-125-ml-plastic-iml-cup/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }
+      ],
+      "Orange": [
+        {
+          "item": "Orange - Imported", 
+          "packet_description": "6 pcs", 
+          "price": "109.14", 
+          "url": "https://www.bigbasket.com/pd/20000910/fresho-orange-imported-6-pcs/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Baby Orange", 
+          "packet_description": "500 g", 
+          "price": "103.26", 
+          "url": "https://www.bigbasket.com/pd/20003956/fresho-baby-orange-500-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Carrot - Orange", 
+          "packet_description": "1 kg", 
+          "price": "53.50", 
+          "url": "https://www.bigbasket.com/pd/10000070/fresho-carrot-orange-1-kg/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Marigold Flower - Orange", 
+          "packet_description": "100 g", 
+          "price": "10.70", 
+          "url": "https://www.bigbasket.com/pd/20001185/fresho-marigold-flower-orange-100-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Fruit Salt - Orange Flavor", 
+          "packet_description": "Pouch5 g", 
+          "price": "7.65", 
+          "url": "https://www.bigbasket.com/pd/40026359/eno-fruit-salt-orange-flavor-5-g-pouch/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Fruit Juice - Orange Delight", 
+          "packet_description": "Multipack2x1 L", 
+          "price": "195.50", 
+          "url": "https://www.bigbasket.com/pd/1200126/tropicana-fruit-juice-orange-delight-2x1-l/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Cold Extracted Juice - Valencia Orange", 
+          "packet_description": "Multipack3x1 L", 
+          "price": "645.30", 
+          "url": "https://www.bigbasket.com/pd/1212124/raw-pressery-cold-extracted-juice-valencia-orange-3x1-l/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "100 % Orange Juice", 
+          "packet_description": "1 L", 
+          "price": "112", 
+          "url": "https://www.bigbasket.com/pd/229943/real-activ-100-orange-juice-1-l/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Minute Maid Pulpy Orange Juice - Ready-To-Serve Fruit Drink", 
+          "packet_description": "Pet Bottle1 L", 
+          "price": "71.71", 
+          "url": "https://www.bigbasket.com/pd/265722/minute-maid-fruit-drink-pulpy-orange-1-l-pet-bottle/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Orange Juice With Vitamin D, No Preservatives", 
+          "packet_description": "Multipack12x150 ml", 
+          "price": "216", 
+          "url": "https://www.bigbasket.com/pd/1207002/paper-boat-orange-juice-with-vitamin-d-no-preservatives-12x150-ml/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "100% Orange Juice", 
+          "packet_description": "Multipack3x1 L", 
+          "price": "420", 
+          "url": "https://www.bigbasket.com/pd/1203207/tropicana-100-orange-juice-3x1-l/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Bounce Biscuits - Orange Creme Cookies", 
+          "packet_description": "Multipack6x78 g", 
+          "price": "54", 
+          "url": "https://www.bigbasket.com/pd/1213951/sunfeast-bounce-biscuits-orange-creme-cookies-6x78-g-pouch/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Instant Drink Mix - Orange", 
+          "packet_description": "Multipack2x750 g", 
+          "price": "382.80", 
+          "url": "https://www.bigbasket.com/pd/1213944/tang-instant-drink-mix-orange-2x750-g-pouch/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Marie Light Biscuit - Vita Orange", 
+          "packet_description": "Pouch100 g", 
+          "price": "15", 
+          "url": "https://www.bigbasket.com/pd/100006859/sunfeast-marie-light-biscuit-vita-orange-120-g-pouch/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Juice - Fruit Power, Orange/Santra", 
+          "packet_description": "Multipack3X1 L", 
+          "price": "293.25", 
+          "url": "https://www.bigbasket.com/pd/1209767/real-juice-fruit-power-orangesantra-3x1-l/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Gobbles Orange Bites Cake, 50g", 
+          "packet_description": "Multipack3x50 g", 
+          "price": "42.75", 
+          "url": "https://www.bigbasket.com/pd/1213482/britannia-gobbles-orange-bites-cake-3x55-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Waffy Wafers - Orange Flavoured, Creamy & Crunchy", 
+          "packet_description": "Pouch60 g", 
+          "price": "25", 
+          "url": "https://www.bigbasket.com/pd/276385/dukes-wafers-waffy-orange-flavor-75-g-pouch/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Treat Orange Cream Biscuits", 
+          "packet_description": "60 g", 
+          "price": "10", 
+          "url": "https://www.bigbasket.com/pd/100537331/britannia-treat-orange-cream-biscuits-60-g/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Tan Removal Orange Face Wash", 
+          "packet_description": "100 ml", 
+          "price": "126", 
+          "url": "https://www.bigbasket.com/pd/40111644/himalaya-tan-removal-orange-face-wash-100-ml/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }, 
+        {
+          "item": "Soft Drink - Orange Flavoured", 
+          "packet_description": "Multipack12x750 ml", 
+          "price": "432", 
+          "url": "https://www.bigbasket.com/pd/1212263/fanta-soft-drink-orange-flavoured-12x750-ml/?nc=cl-prod-list&t_pg=&t_p=&t_s=cl-prod-list&t_pos=1&t_ch=desktop"
+        }
+      ]
+  }

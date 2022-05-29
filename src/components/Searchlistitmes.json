@@ -1,0 +1,7 @@
+[
+    {"item": "Apple", "link":"/prices/Apple"},
+    {"item": "Banana", "link":"/prices/Banana"},
+    {"item": "Carrot", "link":"/prices/Carrot"},
+    {"item": "Mango", "link":"/prices/Mango"},
+    {"item": "Orange", "link":"/prices/Orange"}
+]
