@@ -6,17 +6,17 @@ import { makeStyles } from '@material-ui/core/styles';
 import { Container, Grid } from '@material-ui/core';
 import ProductCard from './ProductCard';
 import Homebtn from './Homebtn';
-
+import ImgLink from "./imglink.json";
 
 
 
 function Prices() {
     let params = useParams();
-    
     let items = Blinkit[params.grocery]
     let utems = Bigbasket[params.grocery]
+    let imgl = ImgLink[params.grocery]
 
-
+  console.log(typeof imgl)
 
   return (
     <div>
@@ -25,7 +25,7 @@ function Prices() {
           <h1 className="mainpagehead blinkithead">Blinkit results...</h1>
           <div className='scroll-content blinkit-scroll' >
             {items.map((product)=>(
-                <ProductCard product={product}  />
+                <ProductCard product={product} imagelink={imgl} />
             ))}
           </div>
           
@@ -34,7 +34,7 @@ function Prices() {
     <h1 className="mainpagehead bigbaskethead">Bigbasket results...</h1>
     <div className="scroll-content bigbasket-scroll">
           {utems.map((product)=>(
-                <ProductCard product={product}  />
+                <ProductCard product={product}  imagelink={imgl}/>
             ))}
           </div>
     </Container>

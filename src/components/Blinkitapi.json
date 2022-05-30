@@ -1,529 +1,662 @@
 { 
-    "Apple": [
-      {
-        "item": "Royal Gala Apple Imported", 
-        "packet_description": "4 units (500 - 700 g)", 
-        "price": "168", 
-        "url": "https://blinkit.com/prn/royal-gala-apple-imported/prid/311059"
-      },  
-      {
-        "item": "Washington Apple", 
-        "packet_description": "4 pieces (520 g - 750 g)", 
-        "price": "143", 
-        "url": "https://blinkit.com/prn/washington-apple/prid/190325"
-      }, 
-      {
-        "item": "Fackelmann Apple Cutter (Multicolor)", 
-        "packet_description": "1 piece", 
-        "price": "230", 
-        "url": "https://blinkit.com/prn/fackelmann-apple-cutter-multicolor/prid/480965"
-      }, 
-      {
-        "item": "Wood Apple (Bel)", 
-        "packet_description": "1 piece (400 g - 600 g)", 
-        "price": "16", 
-        "url": "https://blinkit.com/prn/wood-apple-bel/prid/305323"
-      }, 
-      {
-        "item": "Yellaki Banana", 
-        "packet_description": "500 g", 
-        "price": "49", 
-        "url": "https://blinkit.com/prn/yellaki-banana/prid/424416"
-      }, 
-      {
-        "item": "Double Apple Herbal Hookah Flavor by Soex", 
-        "packet_description": "Red, 50 g", 
-        "price": "130", 
-        "url": "https://blinkit.com/prn/double-apple-herbal-hookah-flavor-by-soex/prid/480934"
-      }, 
-      {
-        "item": "Green apple flavoured Slim Rolling Paper (King size) by Juicy Jay's", 
-        "packet_description": "White and green, 1 unit (32 pieces)", 
-        "price": "220", 
-        "url": "https://blinkit.com/prn/green-apple-flavoured-slim-rolling-paper-king-size-by-juicy-jays/prid/480959"
-      }, 
-      {
-        "item": "Prolyte Apple Liquid ORS", 
-        "packet_description": "200 ml", 
-        "price": "18", 
-        "url": "https://blinkit.com/prn/prolyte-apple-liquid-ors/prid/482754"
-      }, 
-      {
-        "item": "Sante Juicy Apple Fruit Drink", 
-        "packet_description": ", 250 ml", 
-        "price": "30", 
-        "url": "https://blinkit.com/prn/sante-juicy-apple-fruit-drink/prid/476770"
-      }, 
-      {
-        "item": "Budweiser Green Apple Beer - Pack of 2", 
-        "packet_description": "Pack of 2, 2 x 330 ml", 
-        "price": "95", 
-        "url": "https://blinkit.com/prn/budweiser-green-apple-beer-pack-of-2/prid/483969"
-      }, 
-      {
-        "item": "Timios Melts Baby Food (Carrot & Cumin+ Apple & Cinnamon+ Banana & Strawberry+ Blueberry) - Pack of 4", 
-        "packet_description": "Pack of 4, 200 g", 
-        "price": "475", 
-        "url": "https://blinkit.com/prn/timios-melts-baby-food-carrot-cumin-apple-cinnamon-banana-strawberry-blueberry-pack-of-4/prid/438668"
-      }, 
-      {
-        "item": "Wow Skin Science Apple Cider Vinegar Tube Face Wash", 
-        "packet_description": "100 ml", 
-        "price": "220", 
-        "url": "https://blinkit.com/prn/wow-skin-science-apple-cider-vinegar-tube-face-wash/prid/442914"
-      }, 
-      {
-        "item": "Sante Juicy Apple Fruit Drink - Pack of 2", 
-        "packet_description": "Pack of 2, 2 x 250 ml", 
-        "price": "59", 
-        "url": "https://blinkit.com/prn/sante-juicy-apple-fruit-drink-pack-of-2/prid/484053"
-      }, 
-      {
-        "item": "Happa Multigrain Vanilla and Blueberry Puffs + Happa Apple and Cinnamon Puffs Combo", 
-        "packet_description": "40 g + 40 g", 
-        "price": "251", 
-        "url": "https://blinkit.com/prn/happa-multigrain-vanilla-and-blueberry-puffs-happa-apple-and-cinnamon-puffs-combo/prid/483521"
-      }, 
-      {
-        "item": "Biotique Bio Green Apple Shampoo & Conditioner", 
-        "packet_description": "190 ml", 
-        "price": "125", 
-        "url": "https://blinkit.com/prn/biotique-bio-green-apple-shampoo-conditioner/prid/211675"
-      }, 
-      {
-        "item": "Real Activ 100% Apple Juice", 
-        "packet_description": "1 l", 
-        "price": "115", 
-        "url": "https://blinkit.com/prn/real-activ-100-apple-juice/prid/358"
-      }, 
-      {
-        "item": "Timios Zookers Apple & Blueberry Biscuits Baby Food (12 Months +)", 
-        "packet_description": "150 g", 
-        "price": "160", 
-        "url": "https://blinkit.com/prn/timios-zookers-apple-blueberry-biscuits-baby-food-12-months-/prid/441008"
-      }, 
-      {
-        "item": "B Natural Apple Juice", 
-        "packet_description": "1 l", 
-        "price": "90", 
-        "url": "https://blinkit.com/prn/b-natural-apple-juice/prid/33206"
-      }, 
-      {
-        "item": "Real Fruit Power Apple Juice 1 l", 
-        "packet_description": "1 l", 
-        "price": "90", 
-        "url": "https://blinkit.com/prn/real-fruit-power-apple-juice-1-l/prid/350"
-      }
-    ],
-    "Banana": [
-      {
-        "item": "Banana", 
-        "packet_description": "3 units", 
-        "price": "21", 
-        "url": "https://blinkit.com/prn/banana/prid/470636"
-      },
-      {
-        "item": "Banana Leaf", 
-        "packet_description": "1 unit", 
-        "price": "10", 
-        "url": "https://blinkit.com/prn/banana-leaf/prid/470812"
-      }, 
-      {
-        "item": "The Baker's Dozen 100% Wholewheat Banana Bread", 
-        "packet_description": "200 g", 
-        "price": "149", 
-        "url": "https://blinkit.com/prn/the-bakers-dozen-100-wholewheat-banana-bread/prid/467324"
-      }, 
-      {
-        "item": "Banana", 
-        "packet_description": "3 units", 
-        "price": "21", 
-        "url": "https://blinkit.com/prn/banana/prid/470636"
-      }, 
-      {
-        "item": "Open Secret Spicy Peanut Butter Baked Chips", 
-        "packet_description": "30 g", 
-        "price": "34", 
-        "url": "https://blinkit.com/prn/open-secret-spicy-peanut-butter-baked-chips/prid/445827"
-      }, 
-      {
-        "item": "Timios Melts Baby Food (Carrot & Cumin+ Apple & Cinnamon+ Banana & Strawberry+ Blueberry) - Pack of 4", 
-        "packet_description": "Pack of 4, 200 g", 
-        "price": "475", 
-        "url": "https://blinkit.com/prn/timios-melts-baby-food-carrot-cumin-apple-cinnamon-banana-strawberry-blueberry-pack-of-4/prid/438668"
-      }, 
-      {
-        "item": "Yellaki Banana", 
-        "packet_description": "500 g", 
-        "price": "49", 
-        "url": "https://blinkit.com/prn/yellaki-banana/prid/424416"
-      }, 
-      {
-        "item": "Cothas Choco Banana Milk Shake", 
-        "packet_description": "250 ml", 
-        "price": "44", 
-        "url": "https://blinkit.com/prn/cothas-choco-banana-milk-shake/prid/480541"
-      }, 
-      {
-        "item": "Monsoon Harvest Choco Chip Oat Clusters & Ragi with Banana Flakes", 
-        "packet_description": "350 g", 
-        "price": "195", 
-        "url": "https://blinkit.com/prn/monsoon-harvest-choco-chip-oat-clusters-ragi-with-banana-flakes/prid/444948"
-      }, 
-      {
-        "item": "Karpooravalli Banana", 
-        "packet_description": "500 g", 
-        "price": "35", 
-        "url": "https://blinkit.com/prn/karpooravalli-banana/prid/429458"
-      }, 
-      {
-        "item": "Happa Organic Mix Porridge (Sprouted Ragi, Mango and Banana)", 
-        "packet_description": "200 g", 
-        "price": "201", 
-        "url": "https://blinkit.com/prn/happa-organic-mix-porridge-sprouted-ragi-mango-and-banana/prid/478055"
-      }, 
-      {
-        "item": "Slurrp Farm Ragi Rice and Banana Baby Cereal", 
-        "packet_description": "200 g", 
-        "price": "300", 
-        "url": "https://blinkit.com/prn/slurrp-farm-ragi-rice-and-banana-baby-cereal/prid/478729"
-      }, 
-      {
-        "item": "Modern Kitchens Salted Banana Chips", 
-        "packet_description": "70 g", 
-        "price": "40", 
-        "url": "https://blinkit.com/prn/modern-kitchens-salted-banana-chips/prid/482724"
-      }, 
-      {
-        "item": "Happa Multigrain Strawberry and Banana Puffs", 
-        "packet_description": "40 g", 
-        "price": "136", 
-        "url": "https://blinkit.com/prn/happa-multigrain-strawberry-and-banana-puffs/prid/478058"
-      }, 
-      {
-        "item": "Timios Millet Banana Pancake Mix Ready to Cook", 
-        "packet_description": "150 g", 
-        "price": "149", 
-        "url": "https://blinkit.com/prn/timios-millet-banana-pancake-mix-ready-to-cook/prid/477290"
-      }, 
-      {
-        "item": "Modern Kitchens Spicy Banana Chips", 
-        "packet_description": "70 g", 
-        "price": "40", 
-        "url": "https://blinkit.com/prn/modern-kitchens-spicy-banana-chips/prid/482725"
-      }, 
-      {
-        "item": "Garden Yellow Banana Chips", 
-        "packet_description": "85 g", 
-        "price": "51", 
-        "url": "https://blinkit.com/prn/garden-yellow-banana-chips/prid/81328"
-      }, 
-      {
-        "item": "Open Secret Chocolates Almonds Butter Baked Chips", 
-        "packet_description": "30 g", 
-        "price": "34", 
-        "url": "https://blinkit.com/prn/open-secret-chocolates-almonds-butter-baked-chips/prid/445825"
-      }, 
-      {
-        "item": "Open Secret Lemon Chilli Almonds Butter Baked Chips", 
-        "packet_description": "30 g", 
-        "price": "34", 
-        "url": "https://blinkit.com/prn/open-secret-lemon-chilli-almonds-butter-baked-chips/prid/445826"
-      }, 
-      {
-        "item": "Happa Organic Mangoes and Bananas Fruit Puree", 
-        "packet_description": "100 g", 
-        "price": "99", 
-        "url": "https://blinkit.com/prn/happa-organic-mangoes-and-bananas-fruit-puree/prid/478051"
-      }
-    ],
-    "Carrot": [
-      {
-        "item": "Timios Melts Baby Food (Carrot & Cumin+ Apple & Cinnamon+ Banana & Strawberry+ Blueberry) - Pack of 4", 
-        "packet_description": "Pack of 4, 200 g", 
-        "price": "475", 
-        "url": "https://blinkit.com/prn/timios-melts-baby-food-carrot-cumin-apple-cinnamon-banana-strawberry-blueberry-pack-of-4/prid/438668"
-      }, 
-      {
-        "item": "Timios Carrot & Cumin Sticks", 
-        "packet_description": "30 g", 
-        "price": "20", 
-        "url": "https://blinkit.com/prn/timios-carrot-cumin-sticks/prid/438660"
-      }, 
-      {
-        "item": "Ooty Carrot", 
-        "packet_description": "250 g", 
-        "price": "21", 
-        "url": "https://blinkit.com/prn/ooty-carrot/prid/23383"
-      }, 
-      {
-        "item": "Nestle Cerelac with Milk Wheat Apple Carrot Baby Cereal (From 6 to 24 Months)", 
-        "packet_description": "300 g", 
-        "price": "228", 
-        "url": "https://blinkit.com/prn/nestle-cerelac-with-milk-wheat-apple-carrot-baby-cereal-from-6-to-24-months/prid/402184"
-      }, 
-      {
-        "item": "Dr. Oetker FunFoods Veg Cucumber & Carrot Sandwich Spread", 
-        "packet_description": "250 g", 
-        "price": "79", 
-        "url": "https://blinkit.com/prn/dr.-oetker-funfoods-veg-cucumber-carrot-sandwich-spread/prid/23865"
-      }, 
-      {
-        "item": "Orange Carrot", 
-        "packet_description": "500 g", 
-        "price": "42", 
-        "url": "https://blinkit.com/prn/orange-carrot/prid/327916"
-      }, 
-      {
-        "item": "Happa Organic Mix Porridge (Sprouted Ragi, Carrot and Beetroot Porridge)", 
-        "packet_description": "200 g", 
-        "price": "201", 
-        "url": "https://blinkit.com/prn/happa-organic-mix-porridge-sprouted-ragi-carrot-and-beetroot-porridge/prid/478054"
-      }
-    ],
-    "Mango": [
-      {
-        "item": "Real Alphonso Nectar Mango Drink - Pack of 2", 
-        "packet_description": "Pack of 2, 2 x 1 l", 
-        "price": "166", 
-        "url": "https://blinkit.com/prn/real-alphonso-nectar-mango-drink-pack-of-2/prid/403129"
-      }, 
-      {
-        "item": "Frooti Mango Drink - Pack of 2", 
-        "packet_description": "Pack of 2, 2 x 2 l", 
-        "price": "198", 
-        "url": "https://blinkit.com/prn/frooti-mango-drink-pack-of-2/prid/483903"
-      }, 
-      {
-        "item": "Mango - Banganapalli", 
-        "packet_description": "1 kg", 
-        "price": "87", 
-        "url": "https://blinkit.com/prn/mango-banganapalli/prid/421721"
-      }, 
-      {
-        "item": "Slice Thickest Mango Drink", 
-        "packet_description": "600 ml", 
-        "price": "36", 
-        "url": "https://blinkit.com/prn/slice-thickest-mango-drink/prid/311"
-      }, 
-      {
-        "item": "Paper Boat Aam Panna, Mango Drink - Pack of 2", 
-        "packet_description": "Pack of 2, 2x250 ml", 
-        "price": "67", 
-        "url": "https://blinkit.com/prn/paper-boat-aam-panna-mango-drink-pack-of-2/prid/243557"
-      }, 
-      {
-        "item": "Badami Mango", 
-        "packet_description": "1 kg", 
-        "price": "256", 
-        "url": "https://blinkit.com/prn/badami-mango/prid/424388"
-      }, 
-      {
-        "item": "Slice Thickest Mango Drink - Pack of 2", 
-        "packet_description": "Pack of 2, 2x600 ml", 
-        "price": "71", 
-        "url": "https://blinkit.com/prn/slice-thickest-mango-drink-pack-of-2/prid/271310"
-      }, 
-      {
-        "item": "Maaza Mango Drink - Pack of 10", 
-        "packet_description": "Pack of 10, 10 x 150 ml", 
-        "price": "100", 
-        "url": "https://blinkit.com/prn/maaza-mango-drink-pack-of-10/prid/427007"
-      }, 
-      {
-        "item": "Raw Mango", 
-        "packet_description": "500 g - 600 g", 
-        "price": "25", 
-        "url": "https://blinkit.com/prn/raw-mango/prid/253144"
-      }, 
-      {
-        "item": "Kiran Watermelon", 
-        "packet_description": "1 piece (1.5 kg - 2.5 kg)", 
-        "price": "38", 
-        "url": "https://blinkit.com/prn/kiran-watermelon/prid/369752"
-      }, 
-      {
-        "item": "Parle Mango Bite - with Juicy Mango Taste Candy - Pack of 2", 
-        "packet_description": "Pack of 2, 2 x 289 g", 
-        "price": "63", 
-        "url": "https://blinkit.com/prn/parle-mango-bite-with-juicy-mango-taste-candy-pack-of-2/prid/482998"
-      }, 
-      {
-        "item": "Bisleri Fonzo with Fizzz Mango Drink - Pack of 2", 
-        "packet_description": "Pack of 2, 2 x 600 ml", 
-        "price": "59", 
-        "url": "https://blinkit.com/prn/bisleri-fonzo-with-fizzz-mango-drink-pack-of-2/prid/468127"
-      }, 
-      {
-        "item": "Parle Mango Bite Bigger Candy - Pack of 2", 
-        "packet_description": "Pack of 2, 214.5 g", 
-        "price": "79", 
-        "url": "https://blinkit.com/prn/parle-mango-bite-bigger-candy-pack-of-2/prid/421369"
-      }, 
-      {
-        "item": "Parle Mango Bite Bigger Candy", 
-        "packet_description": "214.5 g", 
-        "price": "40", 
-        "url": "https://blinkit.com/prn/parle-mango-bite-bigger-candy/prid/409775"
-      }, 
-      {
-        "item": "Paper Boat Aamras, Mango Drink - Pack of 2", 
-        "packet_description": "Pack of 2, 2x250 ml", 
-        "price": "69", 
-        "url": "https://blinkit.com/prn/paper-boat-aamras-mango-drink-pack-of-2/prid/264196"
-      }, 
-      {
-        "item": "Parle Mango Bite - with Juicy Mango Taste Candy", 
-        "packet_description": "289 g", 
-        "price": "33", 
-        "url": "https://blinkit.com/prn/parle-mango-bite-with-juicy-mango-taste-candy/prid/363056"
-      }, 
-      {
-        "item": "Mother's Recipe Mango Pickle", 
-        "packet_description": "1 kg", 
-        "price": "165", 
-        "url": "https://blinkit.com/prn/mothers-recipe-mango-pickle/prid/24334"
-      }, 
-      {
-        "item": "Maaza Refresh Mango Drink - Pack of 2", 
-        "packet_description": "Pack of 2, 2x150 ml", 
-        "price": "19", 
-        "url": "https://blinkit.com/prn/maaza-refresh-mango-drink-pack-of-2/prid/475802"
-      }, 
-      {
-        "item": "Mother's Recipe Punjabi Mango Pickle", 
-        "packet_description": "400 g", 
-        "price": "125", 
-        "url": "https://blinkit.com/prn/mothers-recipe-punjabi-mango-pickle/prid/24335"
-      }, 
-      {
-        "item": "Tong Garden Sungift Dried Mango", 
-        "packet_description": "150 g", 
-        "price": "331", 
-        "url": "https://blinkit.com/prn/tong-garden-sungift-dried-mango/prid/438508"
-      }
-    ],
-    "Orange": [
-      {
-        "item": "Britannia Treat Creme Chocolate Wafers", 
-        "packet_description": "60 g", 
-        "price": "24", 
-        "url": "https://blinkit.com/prn/britannia-treat-creme-chocolate-wafers/prid/403223"
-      }, 
-      {
-        "item": "B Natural Orange Juice", 
-        "packet_description": "1 l", 
-        "price": "90", 
-        "url": "https://blinkit.com/prn/b-natural-orange-juice/prid/33218"
-      }, 
-      {
-        "item": "Real Activ 100% Orange Juice", 
-        "packet_description": "1 l", 
-        "price": "120", 
-        "url": "https://blinkit.com/prn/real-activ-100-orange-juice/prid/69250"
-      }, 
-      {
-        "item": "Britannia Treat Creme Orange Wafers", 
-        "packet_description": "60 g", 
-        "price": "26", 
-        "url": "https://blinkit.com/prn/britannia-treat-creme-orange-wafers/prid/403224"
-      }, 
-      {
-        "item": "Lizol Disinfectant Surface & Floor Cleaner (Citrus)", 
-        "packet_description": "2 l", 
-        "price": "348", 
-        "url": "https://blinkit.com/prn/lizol-disinfectant-surface-floor-cleaner-citrus/prid/11251"
-      }, 
-      {
-        "item": "Minute Maid Pulpy Orange Fruit Drink", 
-        "packet_description": "1 l", 
-        "price": "76", 
-        "url": "https://blinkit.com/prn/minute-maid-pulpy-orange-fruit-drink/prid/26921"
-      }, 
-      {
-        "item": "Parle Orange Bite Bigger - Orangee Jhatkaa Candy", 
-        "packet_description": "195 g", 
-        "price": "40", 
-        "url": "https://blinkit.com/prn/parle-orange-bite-bigger-orangee-jhatkaa-candy/prid/409776"
-      }, 
-      {
-        "item": "O'range - Lemon Protection Hand Sanitizer", 
-        "packet_description": "50 ml", 
-        "price": "23", 
-        "url": "https://blinkit.com/prn/orange-lemon-protection-hand-sanitizer/prid/405298"
-      }, 
-      {
-        "item": "O'range No- Gas Rivi\u00e8re Deodorant Spray", 
-        "packet_description": "135 ml", 
-        "price": "100", 
-        "url": "https://blinkit.com/prn/orange-no-gas-rivire-deodorant-spray/prid/400405"
-      }, 
-      {
-        "item": "O'range Acti Protect Soap 125 g", 
-        "packet_description": "125 g", 
-        "price": "36", 
-        "url": "https://blinkit.com/prn/orange-acti-protect-soap-125-g/prid/391785"
-      }, 
-      {
-        "item": "Smoodies Original Orange Juice", 
-        "packet_description": "200 ml", 
-        "price": "70", 
-        "url": "https://blinkit.com/prn/smoodies-original-orange-juice/prid/480592"
-      }, 
-      {
-        "item": "O'range Cotton Balls", 
-        "packet_description": "50 units", 
-        "price": "40", 
-        "url": "https://blinkit.com/prn/orange-cotton-balls/prid/391789"
-      }, 
-      {
-        "item": "Fanta Orange Flavoured Soft Drink", 
-        "packet_description": "2.25 l", 
-        "price": "91", 
-        "url": "https://blinkit.com/prn/fanta-orange-flavoured-soft-drink/prid/62184"
-      }, 
-      {
-        "item": "Pulse Orange Candy", 
-        "packet_description": "220 g", 
-        "price": "54", 
-        "url": "https://blinkit.com/prn/pulse-orange-candy/prid/369726"
-      }, 
-      {
-        "item": "O'range Coconut Oil", 
-        "packet_description": "500 ml", 
-        "price": "150", 
-        "url": "https://blinkit.com/prn/orange-coconut-oil/prid/407539"
-      }, 
-      {
-        "item": "Gatorade Orange Flavour Sports Drink", 
-        "packet_description": "500 ml", 
-        "price": "50", 
-        "url": "https://blinkit.com/prn/gatorade-orange-flavour-sports-drink/prid/3032"
-      }, 
-      {
-        "item": "Sunfeast Bounce Tangy Orange Biscuit - Pack of 3", 
-        "packet_description": "Pack of 3, 3 x 76 g", 
-        "price": "29", 
-        "url": "https://blinkit.com/prn/sunfeast-bounce-tangy-orange-biscuit-pack-of-3/prid/386453"
-      }, 
-      {
-        "item": "O'range Walnut Apricot Scrub", 
-        "packet_description": "100 g", 
-        "price": "76", 
-        "url": "https://blinkit.com/prn/orange-walnut-apricot-scrub/prid/434391"
-      }, 
-      {
-        "item": "Glucon-D Orange Energy Drink Mix", 
-        "packet_description": "450 g", 
-        "price": "153", 
-        "url": "https://blinkit.com/prn/glucon-d-orange-energy-drink-mix/prid/187290"
-      }, 
-      {
-        "item": "Sunfeast Bounce Tangy Orange Sandwich Cream Biscuits - Pack of 6", 
-        "packet_description": "Pack of 6, 6 x 76 g", 
-        "price": "54", 
-        "url": "https://blinkit.com/prn/sunfeast-bounce-tangy-orange-sandwich-cream-biscuits-pack-of-6/prid/442438"
-      }
-    ]
-
-  }
+  "Apple": [
+    {
+      "item": "Royal Gala Apple Imported", 
+      "packet_description": "4 units (500 - 700 g)", 
+      "price": "168", 
+      "url": "https://blinkit.com/prn/royal-gala-apple-imported/prid/311059"
+    }, 
+    {
+      "item": "Washington Apple", 
+      "packet_description": "4 pieces (520 g - 750 g)", 
+      "price": "143", 
+      "url": "https://blinkit.com/prn/washington-apple/prid/190325"
+    }, 
+    {
+      "item": "Banana", 
+      "packet_description": "3 units", 
+      "price": "22", 
+      "url": "https://blinkit.com/prn/banana/prid/470636"
+    }, 
+    {
+      "item": "Yellaki Banana", 
+      "packet_description": "500 g", 
+      "price": "49", 
+      "url": "https://blinkit.com/prn/yellaki-banana/prid/424416"
+    }, 
+    {
+      "item": "Fackelmann Apple Cutter (Multicolor)", 
+      "packet_description": "1 piece", 
+      "price": "230", 
+      "url": "https://blinkit.com/prn/fackelmann-apple-cutter-multicolor/prid/480965"
+    }, 
+    {
+      "item": "Wood Apple (Bel)", 
+      "packet_description": "1 piece (400 g - 600 g)", 
+      "price": "16", 
+      "url": "https://blinkit.com/prn/wood-apple-bel/prid/305323"
+    }, 
+    {
+      "item": "Double Apple Herbal Hookah Flavor by Soex", 
+      "packet_description": "Red, 50 g", 
+      "price": "130", 
+      "url": "https://blinkit.com/prn/double-apple-herbal-hookah-flavor-by-soex/prid/480934"
+    }, 
+    {
+      "item": "Green apple flavoured Slim Rolling Paper (King size) by Juicy Jay's", 
+      "packet_description": "White and green, 1 unit (32 pieces)", 
+      "price": "220", 
+      "url": "https://blinkit.com/prn/green-apple-flavoured-slim-rolling-paper-king-size-by-juicy-jays/prid/480959"
+    }, 
+    {
+      "item": "Prolyte Apple Liquid ORS", 
+      "packet_description": "200 ml", 
+      "price": "29", 
+      "url": "https://blinkit.com/prn/prolyte-apple-liquid-ors/prid/482754"
+    }, 
+    {
+      "item": "Sante Juicy Apple Fruit Drink", 
+      "packet_description": ", 250 ml", 
+      "price": "30", 
+      "url": "https://blinkit.com/prn/sante-juicy-apple-fruit-drink/prid/476770"
+    }, 
+    {
+      "item": "Budweiser Green Apple Beer", 
+      "packet_description": "330 ml", 
+      "price": "48", 
+      "url": "https://blinkit.com/prn/budweiser-green-apple-beer/prid/480014"
+    }, 
+    {
+      "item": "Timios Melts Baby Food (Carrot & Cumin+ Apple & Cinnamon+ Banana & Strawberry+ Blueberry) - Pack of 4", 
+      "packet_description": "Pack of 4, 200 g", 
+      "price": "475", 
+      "url": "https://blinkit.com/prn/timios-melts-baby-food-carrot-cumin-apple-cinnamon-banana-strawberry-blueberry-pack-of-4/prid/438668"
+    }, 
+    {
+      "item": "Wow Skin Science Apple Cider Vinegar Tube Face Wash", 
+      "packet_description": "100 ml", 
+      "price": "220", 
+      "url": "https://blinkit.com/prn/wow-skin-science-apple-cider-vinegar-tube-face-wash/prid/442914"
+    }, 
+    {
+      "item": "Sante Juicy Apple Fruit Drink - Pack of 2", 
+      "packet_description": "Pack of 2, 2 x 250 ml", 
+      "price": "59", 
+      "url": "https://blinkit.com/prn/sante-juicy-apple-fruit-drink-pack-of-2/prid/484053"
+    }, 
+    {
+      "item": "Happa Multigrain Vanilla and Blueberry Puffs + Happa Apple and Cinnamon Puffs Combo", 
+      "packet_description": "40 g + 40 g", 
+      "price": "251", 
+      "url": "https://blinkit.com/prn/happa-multigrain-vanilla-and-blueberry-puffs-happa-apple-and-cinnamon-puffs-combo/prid/483521"
+    }, 
+    {
+      "item": "Real Fruit Power Apple Juice 1 l", 
+      "packet_description": "1 l", 
+      "price": "90", 
+      "url": "https://blinkit.com/prn/real-fruit-power-apple-juice-1-l/prid/350"
+    }, 
+    {
+      "item": "Real Activ 100% Apple Juice", 
+      "packet_description": "1 l", 
+      "price": "115", 
+      "url": "https://blinkit.com/prn/real-activ-100-apple-juice/prid/358"
+    }, 
+    {
+      "item": "Biotique Bio Green Apple Shampoo & Conditioner", 
+      "packet_description": "190 ml", 
+      "price": "125", 
+      "url": "https://blinkit.com/prn/biotique-bio-green-apple-shampoo-conditioner/prid/211675"
+    }, 
+    {
+      "item": "B Natural Apple Juice", 
+      "packet_description": "1 l", 
+      "price": "90", 
+      "url": "https://blinkit.com/prn/b-natural-apple-juice/prid/33206"
+    }, 
+    {
+      "item": "Timios Zookers Apple & Blueberry Biscuits Baby Food (12 Months +)", 
+      "packet_description": "150 g", 
+      "price": "160", 
+      "url": "https://blinkit.com/prn/timios-zookers-apple-blueberry-biscuits-baby-food-12-months-/prid/441008"
+    }
+  ],
+  "Banana": [
+    {
+      "item": "Banana", 
+      "packet_description": "3 units", 
+      "price": "22", 
+      "url": "https://blinkit.com/prn/banana/prid/470636"
+    }, 
+    {
+      "item": "Yellaki Banana", 
+      "packet_description": "500 g", 
+      "price": "49", 
+      "url": "https://blinkit.com/prn/yellaki-banana/prid/424416"
+    }, 
+    {
+      "item": "Karpooravalli Banana", 
+      "packet_description": "500 g", 
+      "price": "35", 
+      "url": "https://blinkit.com/prn/karpooravalli-banana/prid/429458"
+    }, 
+    {
+      "item": "Garden Yellow Banana Chips - Pack of 2", 
+      "packet_description": "Pack of 2, 2 x 85 g", 
+      "price": "99", 
+      "url": "https://blinkit.com/prn/garden-yellow-banana-chips-pack-of-2/prid/385050"
+    }, 
+    {
+      "item": "Beyond Snack Kerala Peri Peri Banana Chips", 
+      "packet_description": "85 g", 
+      "price": "60", 
+      "url": "https://blinkit.com/prn/beyond-snack-kerala-peri-peri-banana-chips/prid/452633"
+    }, 
+    {
+      "item": "Modern Kitchens Salted Banana Chips", 
+      "packet_description": "70 g", 
+      "price": "40", 
+      "url": "https://blinkit.com/prn/modern-kitchens-salted-banana-chips/prid/482724"
+    }, 
+    {
+      "item": "Beyond Snack Kerala Original Style Banana Chips", 
+      "packet_description": "85 g", 
+      "price": "60", 
+      "url": "https://blinkit.com/prn/beyond-snack-kerala-original-style-banana-chips/prid/452632"
+    }, 
+    {
+      "item": "Banana Leaf", 
+      "packet_description": "1 unit", 
+      "price": "10", 
+      "url": "https://blinkit.com/prn/banana-leaf/prid/470812"
+    }, 
+    {
+      "item": "Modern Kitchens Spicy Banana Chips", 
+      "packet_description": "70 g", 
+      "price": "40", 
+      "url": "https://blinkit.com/prn/modern-kitchens-spicy-banana-chips/prid/482725"
+    }, 
+    {
+      "item": "The Baker's Dozen 100% Wholewheat Banana Bread", 
+      "packet_description": "200 g", 
+      "price": "149", 
+      "url": "https://blinkit.com/prn/the-bakers-dozen-100-wholewheat-banana-bread/prid/467324"
+    }, 
+    {
+      "item": "Open Secret Spicy Peanut Butter Baked Chips", 
+      "packet_description": "30 g", 
+      "price": "34", 
+      "url": "https://blinkit.com/prn/open-secret-spicy-peanut-butter-baked-chips/prid/445827"
+    }, 
+    {
+      "item": "Open Secret Lemon Chilli Almonds Butter Baked Chips", 
+      "packet_description": "30 g", 
+      "price": "34", 
+      "url": "https://blinkit.com/prn/open-secret-lemon-chilli-almonds-butter-baked-chips/prid/445826"
+    }, 
+    {
+      "item": "Timios Melts Baby Food (Carrot & Cumin+ Apple & Cinnamon+ Banana & Strawberry+ Blueberry) - Pack of 4", 
+      "packet_description": "Pack of 4, 200 g", 
+      "price": "475", 
+      "url": "https://blinkit.com/prn/timios-melts-baby-food-carrot-cumin-apple-cinnamon-banana-strawberry-blueberry-pack-of-4/prid/438668"
+    }, 
+    {
+      "item": "Cothas Choco Banana Milk Shake", 
+      "packet_description": "250 ml", 
+      "price": "44", 
+      "url": "https://blinkit.com/prn/cothas-choco-banana-milk-shake/prid/480541"
+    }, 
+    {
+      "item": "Open Secret Chocolates Almonds Butter Baked Chips", 
+      "packet_description": "30 g", 
+      "price": "34", 
+      "url": "https://blinkit.com/prn/open-secret-chocolates-almonds-butter-baked-chips/prid/445825"
+    }, 
+    {
+      "item": "Monsoon Harvest Choco Chip Oat Clusters & Ragi with Banana Flakes", 
+      "packet_description": "350 g", 
+      "price": "195", 
+      "url": "https://blinkit.com/prn/monsoon-harvest-choco-chip-oat-clusters-ragi-with-banana-flakes/prid/444948"
+    }, 
+    {
+      "item": "Happa Organic Mix Porridge (Sprouted Ragi, Mango and Banana)", 
+      "packet_description": "200 g", 
+      "price": "201", 
+      "url": "https://blinkit.com/prn/happa-organic-mix-porridge-sprouted-ragi-mango-and-banana/prid/478055"
+    }, 
+    {
+      "item": "Slurrp Farm Ragi Rice and Banana Baby Cereal", 
+      "packet_description": "200 g", 
+      "price": "300", 
+      "url": "https://blinkit.com/prn/slurrp-farm-ragi-rice-and-banana-baby-cereal/prid/478729"
+    }, 
+    {
+      "item": "Timios Millet Banana Pancake Mix Ready to Cook", 
+      "packet_description": "150 g", 
+      "price": "149", 
+      "url": "https://blinkit.com/prn/timios-millet-banana-pancake-mix-ready-to-cook/prid/477290"
+    }, 
+    {
+      "item": "Happa Multigrain Strawberry and Banana Puffs", 
+      "packet_description": "40 g", 
+      "price": "136", 
+      "url": "https://blinkit.com/prn/happa-multigrain-strawberry-and-banana-puffs/prid/478058"
+    }
+  ],
+  "Carrot": [
+    {
+      "item": "Ooty Carrot", 
+      "packet_description": "250 g", 
+      "price": "21", 
+      "url": "https://blinkit.com/prn/ooty-carrot/prid/23383"
+    }, 
+    {
+      "item": "Timios Melts Baby Food (Carrot & Cumin+ Apple & Cinnamon+ Banana & Strawberry+ Blueberry) - Pack of 4", 
+      "packet_description": "Pack of 4, 200 g", 
+      "price": "475", 
+      "url": "https://blinkit.com/prn/timios-melts-baby-food-carrot-cumin-apple-cinnamon-banana-strawberry-blueberry-pack-of-4/prid/438668"
+    }, 
+    {
+      "item": "Orange Carrot", 
+      "packet_description": "500 g", 
+      "price": "42", 
+      "url": "https://blinkit.com/prn/orange-carrot/prid/327916"
+    }, 
+    {
+      "item": "Timios Carrot & Cumin Sticks", 
+      "packet_description": "30 g", 
+      "price": "20", 
+      "url": "https://blinkit.com/prn/timios-carrot-cumin-sticks/prid/438660"
+    }, 
+    {
+      "item": "Nestle Cerelac with Milk Wheat Apple Carrot Baby Cereal (From 6 to 24 Months)", 
+      "packet_description": "300 g", 
+      "price": "228", 
+      "url": "https://blinkit.com/prn/nestle-cerelac-with-milk-wheat-apple-carrot-baby-cereal-from-6-to-24-months/prid/402184"
+    }, 
+    {
+      "item": "Dr. Oetker FunFoods Veg Cucumber & Carrot Sandwich Spread", 
+      "packet_description": "250 g", 
+      "price": "79", 
+      "url": "https://blinkit.com/prn/dr.-oetker-funfoods-veg-cucumber-carrot-sandwich-spread/prid/23865"
+    }, 
+    {
+      "item": "Happa Organic Mix Porridge (Sprouted Ragi, Carrot and Beetroot Porridge)", 
+      "packet_description": "200 g", 
+      "price": "201", 
+      "url": "https://blinkit.com/prn/happa-organic-mix-porridge-sprouted-ragi-carrot-and-beetroot-porridge/prid/478054"
+    }
+  ],
+  "Mango": [
+    {
+      "item": "Mango - Banganapalli", 
+      "packet_description": "1 kg", 
+      "price": "87", 
+      "url": "https://blinkit.com/prn/mango-banganapalli/prid/421721"
+    }, 
+    {
+      "item": "Badami Mango", 
+      "packet_description": "1 kg", 
+      "price": "247", 
+      "url": "https://blinkit.com/prn/badami-mango/prid/424388"
+    }, 
+    {
+      "item": "Raw Mango", 
+      "packet_description": "500 g - 600 g", 
+      "price": "25", 
+      "url": "https://blinkit.com/prn/raw-mango/prid/253144"
+    }, 
+    {
+      "item": "Frooti Mango Drink - Pack of 2", 
+      "packet_description": "Pack of 2, 2 x 2 l", 
+      "price": "198", 
+      "url": "https://blinkit.com/prn/frooti-mango-drink-pack-of-2/prid/483903"
+    }, 
+    {
+      "item": "Real Alphonso Nectar Mango Drink - Pack of 2", 
+      "packet_description": "Pack of 2, 2 x 1 l", 
+      "price": "166", 
+      "url": "https://blinkit.com/prn/real-alphonso-nectar-mango-drink-pack-of-2/prid/403129"
+    }, 
+    {
+      "item": "Bisleri Fonzo with Fizzz Mango Drink", 
+      "packet_description": "600 ml", 
+      "price": "31", 
+      "url": "https://blinkit.com/prn/bisleri-fonzo-with-fizzz-mango-drink/prid/446985"
+    }, 
+    {
+      "item": "Slice Thickest Mango Drink", 
+      "packet_description": "1.75 l", 
+      "price": "78", 
+      "url": "https://blinkit.com/prn/slice-thickest-mango-drink/prid/32790"
+    }, 
+    {
+      "item": "Maaza Mango Drink - Pack of 10", 
+      "packet_description": "Pack of 10, 10 x 150 ml", 
+      "price": "100", 
+      "url": "https://blinkit.com/prn/maaza-mango-drink-pack-of-10/prid/427007"
+    }, 
+    {
+      "item": "Paper Boat Aamras, Mango Drink - Pack of 2", 
+      "packet_description": "Pack of 2, 2x250 ml", 
+      "price": "69", 
+      "url": "https://blinkit.com/prn/paper-boat-aamras-mango-drink-pack-of-2/prid/264196"
+    }, 
+    {
+      "item": "Paper Boat Aam Panna, Mango Drink - Pack of 2", 
+      "packet_description": "Pack of 2, 2x250 ml", 
+      "price": "67", 
+      "url": "https://blinkit.com/prn/paper-boat-aam-panna-mango-drink-pack-of-2/prid/243557"
+    }, 
+    {
+      "item": "Slice Thickest Mango Drink - Pack of 2", 
+      "packet_description": "Pack of 2, 2x600 ml", 
+      "price": "71", 
+      "url": "https://blinkit.com/prn/slice-thickest-mango-drink-pack-of-2/prid/271310"
+    }, 
+    {
+      "item": "Maaza Refresh Mango Drink - Pack of 2", 
+      "packet_description": "Pack of 2, 2x150 ml", 
+      "price": "19", 
+      "url": "https://blinkit.com/prn/maaza-refresh-mango-drink-pack-of-2/prid/475802"
+    }, 
+    {
+      "item": "Kiran Watermelon", 
+      "packet_description": "1 piece (1.5 kg - 2.5 kg)", 
+      "price": "38", 
+      "url": "https://blinkit.com/prn/kiran-watermelon/prid/369752"
+    }, 
+    {
+      "item": "Parle Mango Bite - with Juicy Mango Taste Candy - Pack of 2", 
+      "packet_description": "Pack of 2, 2 x 289 g", 
+      "price": "63", 
+      "url": "https://blinkit.com/prn/parle-mango-bite-with-juicy-mango-taste-candy-pack-of-2/prid/482998"
+    }, 
+    {
+      "item": "Nandini Curd", 
+      "packet_description": "500 gm", 
+      "price": "22", 
+      "url": "https://blinkit.com/prn/nandini-curd/prid/259923"
+    }, 
+    {
+      "item": "Parle Mango Bite Bigger Candy - Pack of 2", 
+      "packet_description": "Pack of 2, 214.5 g", 
+      "price": "79", 
+      "url": "https://blinkit.com/prn/parle-mango-bite-bigger-candy-pack-of-2/prid/421369"
+    }, 
+    {
+      "item": "Parle Mango Bite Bigger Candy", 
+      "packet_description": "214.5 g", 
+      "price": "40", 
+      "url": "https://blinkit.com/prn/parle-mango-bite-bigger-candy/prid/409775"
+    }, 
+    {
+      "item": "Parle Mango Bite - with Juicy Mango Taste Candy", 
+      "packet_description": "289 g", 
+      "price": "33", 
+      "url": "https://blinkit.com/prn/parle-mango-bite-with-juicy-mango-taste-candy/prid/363056"
+    }, 
+    {
+      "item": "Mother's Recipe Mango Pickle", 
+      "packet_description": "1 kg", 
+      "price": "165", 
+      "url": "https://blinkit.com/prn/mothers-recipe-mango-pickle/prid/24334"
+    }, 
+    {
+      "item": "Pulse Kachcha Aam Mono / Mango Candy", 
+      "packet_description": "200 g", 
+      "price": "57", 
+      "url": "https://blinkit.com/prn/pulse-kachcha-aam-mono-mango-candy/prid/265355"
+    }
+  ],
+  "Orange": [
+    {
+      "item": "Britannia Treat Creme Chocolate Wafers", 
+      "packet_description": "60 g", 
+      "price": "24", 
+      "url": "https://blinkit.com/prn/britannia-treat-creme-chocolate-wafers/prid/403223"
+    }, 
+    {
+      "item": "B Natural Orange Juice", 
+      "packet_description": "1 l", 
+      "price": "90", 
+      "url": "https://blinkit.com/prn/b-natural-orange-juice/prid/33218"
+    }, 
+    {
+      "item": "Real Activ 100% Orange Juice", 
+      "packet_description": "1 l", 
+      "price": "120", 
+      "url": "https://blinkit.com/prn/real-activ-100-orange-juice/prid/69250"
+    }, 
+    {
+      "item": "Britannia Treat Creme Orange Wafers", 
+      "packet_description": "60 g", 
+      "price": "26", 
+      "url": "https://blinkit.com/prn/britannia-treat-creme-orange-wafers/prid/403224"
+    }, 
+    {
+      "item": "Lizol Disinfectant Surface & Floor Cleaner (Citrus)", 
+      "packet_description": "2 l", 
+      "price": "348", 
+      "url": "https://blinkit.com/prn/lizol-disinfectant-surface-floor-cleaner-citrus/prid/11251"
+    }, 
+    {
+      "item": "Minute Maid Pulpy Orange Fruit Drink", 
+      "packet_description": "1 l", 
+      "price": "76", 
+      "url": "https://blinkit.com/prn/minute-maid-pulpy-orange-fruit-drink/prid/26921"
+    }, 
+    {
+      "item": "Parle Orange Bite Bigger - Orangee Jhatkaa Candy", 
+      "packet_description": "195 g", 
+      "price": "40", 
+      "url": "https://blinkit.com/prn/parle-orange-bite-bigger-orangee-jhatkaa-candy/prid/409776"
+    }, 
+    {
+      "item": "O'range - Lemon Protection Hand Sanitizer", 
+      "packet_description": "50 ml", 
+      "price": "23", 
+      "url": "https://blinkit.com/prn/orange-lemon-protection-hand-sanitizer/prid/405298"
+    }, 
+    {
+      "item": "O'range No- Gas Rivi\u00e8re Deodorant Spray", 
+      "packet_description": "135 ml", 
+      "price": "100", 
+      "url": "https://blinkit.com/prn/orange-no-gas-rivire-deodorant-spray/prid/400405"
+    }, 
+    {
+      "item": "O'range Acti Protect Soap 125 g", 
+      "packet_description": "125 g", 
+      "price": "36", 
+      "url": "https://blinkit.com/prn/orange-acti-protect-soap-125-g/prid/391785"
+    }, 
+    {
+      "item": "Smoodies Original Orange Juice", 
+      "packet_description": "200 ml", 
+      "price": "70", 
+      "url": "https://blinkit.com/prn/smoodies-original-orange-juice/prid/480592"
+    }, 
+    {
+      "item": "O'range Cotton Balls", 
+      "packet_description": "50 units", 
+      "price": "40", 
+      "url": "https://blinkit.com/prn/orange-cotton-balls/prid/391789"
+    }, 
+    {
+      "item": "The Whole Truth Fig Apricot and Orange Energy Bar", 
+      "packet_description": "40 g", 
+      "price": "54", 
+      "url": "https://blinkit.com/prn/the-whole-truth-fig-apricot-and-orange-energy-bar/prid/457046"
+    }, 
+    {
+      "item": "Fanta Orange Flavoured Soft Drink", 
+      "packet_description": "2.25 l", 
+      "price": "91", 
+      "url": "https://blinkit.com/prn/fanta-orange-flavoured-soft-drink/prid/62184"
+    }, 
+    {
+      "item": "O'range Coconut Oil", 
+      "packet_description": "500 ml", 
+      "price": "150", 
+      "url": "https://blinkit.com/prn/orange-coconut-oil/prid/407539"
+    }, 
+    {
+      "item": "Pulse Orange Candy", 
+      "packet_description": "220 g", 
+      "price": "54", 
+      "url": "https://blinkit.com/prn/pulse-orange-candy/prid/369726"
+    }, 
+    {
+      "item": "Gatorade Orange Flavour Sports Drink", 
+      "packet_description": "500 ml", 
+      "price": "50", 
+      "url": "https://blinkit.com/prn/gatorade-orange-flavour-sports-drink/prid/3032"
+    }, 
+    {
+      "item": "O'range Walnut Apricot Scrub", 
+      "packet_description": "100 g", 
+      "price": "76", 
+      "url": "https://blinkit.com/prn/orange-walnut-apricot-scrub/prid/434391"
+    }, 
+    {
+      "item": "Sunfeast Bounce Tangy Orange Biscuit - Pack of 3", 
+      "packet_description": "Pack of 3, 3 x 76 g", 
+      "price": "29", 
+      "url": "https://blinkit.com/prn/sunfeast-bounce-tangy-orange-biscuit-pack-of-3/prid/386453"
+    }, 
+    {
+      "item": "Sunfeast Bounce Tangy Orange Sandwich Cream Biscuits - Pack of 6", 
+      "packet_description": "Pack of 6, 6 x 76 g", 
+      "price": "54", 
+      "url": "https://blinkit.com/prn/sunfeast-bounce-tangy-orange-sandwich-cream-biscuits-pack-of-6/prid/442438"
+    }
+  ],
+  "Milk": [
+    {
+      "item": "Hershey's Chocolate Milk Shake - Pack of 2", 
+      "packet_description": "Pack of 2, 2 x 180 ml", 
+      "price": "59", 
+      "url": "https://blinkit.com/prn/hersheys-chocolate-milk-shake-pack-of-2/prid/382244"
+    }, 
+    {
+      "item": "Nandini Good Life Toned Milk", 
+      "packet_description": "500 ml", 
+      "price": "30", 
+      "url": "https://blinkit.com/prn/nandini-good-life-toned-milk/prid/309894"
+    }, 
+    {
+      "item": "Amul Taaza Homogenised Toned Milk", 
+      "packet_description": "1 l", 
+      "price": "68", 
+      "url": "https://blinkit.com/prn/amul-taaza-homogenised-toned-milk/prid/176"
+    }, 
+    {
+      "item": "Nandini Slim Skimmed Milk", 
+      "packet_description": "1 l", 
+      "price": "61", 
+      "url": "https://blinkit.com/prn/nandini-slim-skimmed-milk/prid/115774"
+    }, 
+    {
+      "item": "Mother Dairy Toned Milk", 
+      "packet_description": "1 l", 
+      "price": "68", 
+      "url": "https://blinkit.com/prn/mother-dairy-toned-milk/prid/32685"
+    }, 
+    {
+      "item": "Nestle a+ Slim Skimmed Milk", 
+      "packet_description": "1 l", 
+      "price": "89", 
+      "url": "https://blinkit.com/prn/nestle-a-slim-skimmed-milk/prid/74690"
+    }, 
+    {
+      "item": "Amul Lactose Free Milk", 
+      "packet_description": "250 ml", 
+      "price": "25", 
+      "url": "https://blinkit.com/prn/amul-lactose-free-milk/prid/206314"
+    }, 
+    {
+      "item": "Nandini Toned Fresh Milk", 
+      "packet_description": "500 ml", 
+      "price": "19", 
+      "url": "https://blinkit.com/prn/nandini-toned-fresh-milk/prid/37083"
+    }, 
+    {
+      "item": "Nandini Shubham Pasteurised Standardized Fresh Milk", 
+      "packet_description": "500 ml", 
+      "price": "22", 
+      "url": "https://blinkit.com/prn/nandini-shubham-pasteurised-standardized-fresh-milk/prid/309921"
+    }, 
+    {
+      "item": "Nestle Munch Chocolate Coated Crunchy Wafers - Share Pack - Pack of 2", 
+      "packet_description": "Pack of 2, 2 x 187.2 g", 
+      "price": "178", 
+      "url": "https://blinkit.com/prn/nestle-munch-chocolate-coated-crunchy-wafers-share-pack-pack-of-2/prid/482847"
+    }, 
+    {
+      "item": "Sea Shell Bone China Coffee Cup Set (White)", 
+      "packet_description": "6 pieces", 
+      "price": "390", 
+      "url": "https://blinkit.com/prn/sea-shell-bone-china-coffee-cup-set-white/prid/481152"
+    }, 
+    {
+      "item": "Happy Kitchen Tea/Coffee Stainless Steel Strainer (Small) (Metallic)", 
+      "packet_description": "1 piece", 
+      "price": "120", 
+      "url": "https://blinkit.com/prn/happy-kitchen-teacoffee-stainless-steel-strainer-small-metallic/prid/480976"
+    }, 
+    {
+      "item": "Happy Kitchen Tea/Coffee Stainless Steel Strainer (Medium) (Metallic)", 
+      "packet_description": "1 piece", 
+      "price": "130", 
+      "url": "https://blinkit.com/prn/happy-kitchen-teacoffee-stainless-steel-strainer-medium-metallic/prid/480975"
+    }, 
+    {
+      "item": "Britannia Milk Bikis Biscuit", 
+      "packet_description": "500 g", 
+      "price": "72", 
+      "url": "https://blinkit.com/prn/britannia-milk-bikis-biscuit/prid/427129"
+    }, 
+    {
+      "item": "Amul Kool Cafe Milk 'n' Coffee Flavoured Milk (Can) - Pack of 2", 
+      "packet_description": "Pack of 2, 2x200 ml", 
+      "price": "69", 
+      "url": "https://blinkit.com/prn/amul-kool-cafe-milk-n-coffee-flavoured-milk-can-pack-of-2/prid/394458"
+    }, 
+    {
+      "item": "Amul Kool Koko Chocolate Flavoured Milk (Can) - Pack of 2", 
+      "packet_description": "Pack of 2, 2x200 ml", 
+      "price": "59", 
+      "url": "https://blinkit.com/prn/amul-kool-koko-chocolate-flavoured-milk-can-pack-of-2/prid/382229"
+    }, 
+    {
+      "item": "Nandini Badam Flavoured Milk", 
+      "packet_description": "200 ml", 
+      "price": "25", 
+      "url": "https://blinkit.com/prn/nandini-badam-flavoured-milk/prid/227727"
+    }, 
+    {
+      "item": "Nescafe Intense Cappuccino Flavoured Milk", 
+      "packet_description": "180 ml", 
+      "price": "48", 
+      "url": "https://blinkit.com/prn/nescafe-intense-cappuccino-flavoured-milk/prid/400927"
+    }, 
+    {
+      "item": "Britannia Milk Bikis Milk Sandwich Cream Biscuits", 
+      "packet_description": "200 g", 
+      "price": "43", 
+      "url": "https://blinkit.com/prn/britannia-milk-bikis-milk-sandwich-cream-biscuits/prid/11170"
+    }, 
+    {
+      "item": "Nandini Goodlife Pista Flavoured Milk", 
+      "packet_description": ", 200 ml", 
+      "price": "20", 
+      "url": "https://blinkit.com/prn/nandini-goodlife-pista-flavoured-milk/prid/481035"
+    }, 
+    {
+      "item": "Nandini Goodlife Strawberry Flavoured Milk", 
+      "packet_description": ", 200 ml", 
+      "price": "20", 
+      "url": "https://blinkit.com/prn/nandini-goodlife-strawberry-flavoured-milk/prid/481034"
+    }
+  ]
+}

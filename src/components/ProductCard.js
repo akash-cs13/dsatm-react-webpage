@@ -19,10 +19,10 @@ const useStyles = makeStyles((theme) => ({
       },
     }));
 
-function ProductCard({ product}) {
+function ProductCard({ product , imagelink}) {
 
     const classes = useStyles();
-
+    console.log(imagelink)
 
   return (
     <div className='product-card'>
@@ -32,7 +32,7 @@ function ProductCard({ product}) {
           alt={product.item}
           className={classes.media}
           height="140"
-          image= "https://cdn.grofers.com/app/images/products/sliding_image/311059a.jpg?ts=1605686561"
+          image= {imagelink}
         />
         <CardContent>
           <Typography  >   {/* gutterBottom variant="h5" component="h2" >  */}

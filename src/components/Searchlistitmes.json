@@ -1,7 +1,8 @@
 [
-    {"item": "Apple", "link":"/prices/Apple"},
-    {"item": "Banana", "link":"/prices/Banana"},
-    {"item": "Carrot", "link":"/prices/Carrot"},
-    {"item": "Mango", "link":"/prices/Mango"},
-    {"item": "Orange", "link":"/prices/Orange"}
+    {"item": "Apple", "link":"/prices/Apple", "img":"https://cdn.grofers.com/app/images/products/sliding_image/311059a.jpg?ts=1605686561"},
+    {"item": "Banana", "link":"/prices/Banana", "img":"https://cdn.grofers.com/app/images/products/sliding_image/470636a.jpg"},
+    {"item": "Carrot", "link":"/prices/Carrot", "img":"https://cdn.grofers.com/app/images/products/sliding_image/23383a.jpg?ts=1636540615"},
+    {"item": "Mango", "link":"/prices/Mango", "img":"https://cdn.grofers.com/app/images/products/sliding_image/421721a.jpg?ts=1646720542"},
+    {"item": "Milk", "link":"/prices/Milk", "img":"https://cdn.grofers.com/app/images/products/sliding_image/37083a.jpg?ts=1651131853"},
+    {"item": "Orange", "link":"/prices/Orange", "img":"https://www.bigbasket.com/media/uploads/p/l/20003956_2-fresho-baby-orange.jpg"}
 ]
