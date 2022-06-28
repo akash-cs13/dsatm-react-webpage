@@ -1,6 +1,9 @@
 import './styles.css';
 import {  Link, Route } from 'react-router-dom';
-import React, { useRef, useState, useEffect } from 'react'
+import React, { useRef, useState, useEffect, Component } from 'react'
+import { render } from "react-dom";
+import Keyboard from "react-simple-keyboard";
+import "react-simple-keyboard/build/css/index.css";
 import Homebtn from './Homebtn';
 import Exitbtn from './Exitbtn';
 import Searchdata from './Searchlistitmes.json'
@@ -89,15 +92,23 @@ function Search() {
 
 
 
+
+
+
+  
+
   return (
 
     <div >
-
+        <div className='webcam-box'>
         <Webcam
           ref={webcamRef}
           muted={true} 
           className="webcam"
         />
+
+        </div>
+       
 
 
         <div className="search">
@@ -118,15 +129,10 @@ function Search() {
             </div>
             )}
         </div>
-        
 
-        
+    
 
-
-
-
-
-
+ 
         <Homebtn />
         <Exitbtn />
     </div>

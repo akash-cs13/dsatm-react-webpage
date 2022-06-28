@@ -1,8 +1,17 @@
 [
     {"item": "Apple", "link":"/prices/Apple", "img":"https://cdn.grofers.com/app/images/products/sliding_image/311059a.jpg?ts=1605686561"},
     {"item": "Banana", "link":"/prices/Banana", "img":"https://cdn.grofers.com/app/images/products/sliding_image/470636a.jpg"},
-    {"item": "Carrot", "link":"/prices/Carrot", "img":"https://cdn.grofers.com/app/images/products/sliding_image/23383a.jpg?ts=1636540615"},
+    {"item": "Coconut", "link":"/prices/Coconut", "img":"https://cdn.grofers.com/app/images/products/sliding_image/23383a.jpg?ts=1636540615"},
+    {"item": "Curd", "link":"/prices/Curd", "img":"https://cdn.grofers.com/app/images/products/sliding_image/421721a.jpg?ts=1646720542"},
+    {"item": "Guava", "link":"/prices/Guava", "img":"https://cdn.grofers.com/app/images/products/sliding_image/37083a.jpg?ts=1651131853"},
     {"item": "Mango", "link":"/prices/Mango", "img":"https://cdn.grofers.com/app/images/products/sliding_image/421721a.jpg?ts=1646720542"},
     {"item": "Milk", "link":"/prices/Milk", "img":"https://cdn.grofers.com/app/images/products/sliding_image/37083a.jpg?ts=1651131853"},
-    {"item": "Orange", "link":"/prices/Orange", "img":"https://www.bigbasket.com/media/uploads/p/l/20003956_2-fresho-baby-orange.jpg"}
+    {"item": "Mosambi", "link":"/prices/Mosambi", "img":"https://cdn.grofers.com/app/images/products/sliding_image/311059a.jpg?ts=1605686561"},
+    {"item": "Muskmelon", "link":"/prices/Muskmelon", "img":"https://cdn.grofers.com/app/images/products/sliding_image/470636a.jpg"},
+    {"item": "Onion", "link":"/prices/Onion", "img":"https://cdn.grofers.com/app/images/products/sliding_image/23383a.jpg?ts=1636540615"},
+    {"item": "Orange", "link":"/prices/Orange", "img":"https://cdn.grofers.com/app/images/products/sliding_image/311059a.jpg?ts=1605686561"},
+    {"item": "Papaya", "link":"/prices/Papaya", "img":"https://cdn.grofers.com/app/images/products/sliding_image/470636a.jpg"},
+    {"item": "Pomegranate", "link":"/prices/Pomegranate", "img":"https://cdn.grofers.com/app/images/products/sliding_image/23383a.jpg?ts=1636540615"},
+    {"item": "Potato", "link":"/prices/Potato", "img":"https://www.bigbasket.com/media/uploads/p/l/20003956_2-fresho-baby-orange.jpg"},
+    {"item": "Tomato", "link":"/prices/Tomato", "img":"https://cdn.grofers.com/app/images/products/sliding_image/311059a.jpg?ts=1605686561"}
 ]

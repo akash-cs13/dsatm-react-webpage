@@ -139,18 +139,27 @@ body {
 
 
 
-
-
-  .webcam {
-
+  .webcam-box {
+    position: absolute;
+    padding: 15px 15px;
     margin-left: auto;
     margin-right: auto;
-    position: relative;
-    
+
+
     height: 400px;
     width: 530px;
     left: 0px;
     top: 80px;
+  }
+
+  .webcam {
+
+
+    position: relative;
+
+    border-radius: 15px;
+    
+
   }
 
   .scroll-content {
@@ -230,4 +239,84 @@ body {
     text-align: center;
     list-style-position: inside;
 
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .arv-card-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  
+  .arv-card {
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    background-color: #fafafa;
+    border: 2px solid rgba(0, 0, 0, .10);
+    max-width: 80rem;
+    min-height: 63rem;
+    box-shadow: 2px 4px 24px rgba(0, 0, 0, 0.15);
+  }
+  .arv-card--img {
+      background: url('https://www.vegrecipesofindia.com/wp-content/uploads/2020/12/apple-pie-recipe18.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      min-height: 32rem; 
+    }
+    
+  .arv-card--text {
+      display: flex;
+      flex-direction: column;
+      padding: 0 2rem 2rem 2rem;
+    }
+    
+  .arv-card--title {
+      padding-top: 3rem;
+      color: #313135;
+      font-weight: 700;
+      font-size: 2.4rem;
+    }
+    
+  .arv-card--sub {
+      padding-top: 2rem;
+      font-weight: 600;
+      font-size: 1.8rem;
+      color: #59595C;
+      margin-bottom: 40px;
+    }
+
+  
+  .cta {
+    justify-self: flex-end;
+    text-decoration: none;
+    color: #f2f2f2;
+    background-color: #0B6E4F;
+    border-radius: 4px;
+    font-size: 2.4rem;
+    padding: .4rem 0;
+    width: 19rem;
+    text-align: center;
+    box-shadow: 2px 4px 12px rgba(10, 88, 64, 0.2);
+  }
+  
+  .cta:hover {
+    box-shadow: 2px 4px 12px rgba(10, 88, 64, 0.35);
   }
