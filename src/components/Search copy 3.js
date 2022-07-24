@@ -7,8 +7,7 @@ import "react-simple-keyboard/build/css/index.css";
 import Homebtn from './Homebtn';
 import Exitbtn from './Exitbtn';
 import Searchdata from './Searchlistitmes.json'
-
-
+// import Keyboard from './Keyboard';
 
 
 import * as tf from "@tensorflow/tfjs";
@@ -20,14 +19,42 @@ import {drawRect} from "./utilities";
 function Search() {
   
   const [filterData, setFileredData] = useState([]);
+  const [input, setInput] = useState("");
+  const [layout, setLayout] = useState("default");
+  const keyboard = useRef();
 
-  const handleFilter = (event) => {
-    const searchWord = event.target.value;
+  const onChange = input => {
+    setInput(input);
+    console.log("Input changed", input);
+  };
+
+  const handleShift = () => {
+    const newLayoutName = layout === "default" ? "shift" : "default";
+    setLayout(newLayoutName);
+  };
+
+  const onKeyPress = button => {
+    console.log("Button pressed", button);
+
+    /**
+     * If you want to handle the shift and caps lock buttons
+     */
+    if (button === "{shift}" || button === "{lock}") handleShift();
+  };
+
+  const onChangeInput = event => {
+    const input = event.target.value;
+    setInput(input);
+    keyboard.current.setInput(input);
     const newFilter = Searchdata.filter((value)=>{
-      return value.item.toLowerCase().includes(searchWord.toLowerCase());
+      return value.item.toLowerCase().includes(input.toLowerCase());
     });
     setFileredData(newFilter);
+
   };
+
+
+
 
 
   const webcamRef = useRef(null);
@@ -96,7 +123,8 @@ function Search() {
 
 
 
-  
+
+
 
   return (
 
@@ -114,10 +142,30 @@ function Search() {
 
         <div className="search">
             <div className="search-comp">
-                <input type="text" className="search-bar-txt" onChange={handleFilter}/>
+            <input
+            className="search-bar-txt" 
+            value={input}
+            onChange={onChangeInput}
+            />
+                {/* <input type="text" className="search-bar-txt" onChange={handleFilter}/> */}
                 {/* <button className="mainpagebtn searchbtn" ><i className="fa-solid fa-magnifying-glass"></i></button>  */}
             </div>
             { filterData.length != 0 && (
+            <div className='search-results'>
+              {filterData.map((value, key) => {
+                return (<Link className='searchitems' to={value.link}>
+                <p>
+                  {value.item}
+                </p>
+            </Link>);
+              })}
+            </div>
+
+            )}
+
+
+
+            {/* { filterData.length != 0 && (
             <div className="search-results">
               {filterData.map((value, key)=>{
                 return <Link className='searchitems' to={value.link}>
@@ -128,11 +176,18 @@ function Search() {
 
               })}
             </div>
-            )}
+            )} */}
         </div>
 
+        <div>
+        <Keyboard
+        keyboardRef={r => (keyboard.current = r)}
+        layoutName={layout}
+        onChange={onChange}
+        onKeyPress={onKeyPress}
+        />
+        </div>
 
- 
         <Homebtn />
         <Exitbtn />
     </div>
